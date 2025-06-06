@@ -32,4 +32,6 @@ alacritty.toml
 ```
 
 step three get the configs
+
 [my config](https://github.com/nyctoethos/alacritty-config/blob/main/my-config)
+[default config]()
