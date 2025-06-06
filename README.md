@@ -6,8 +6,10 @@ Installation
 
 Install the terminal with your favorite package manager 
 example 
-``` 
+```
+arch linux
 sudo pacman -S alacritty
+deb
 sudo apt-get install alacritty
 
 ```
@@ -30,3 +32,4 @@ alacritty.toml
 ```
 
 step three get the configs
+[my config](https://github.com/nyctoethos/alacritty-config/blob/main/my-config)
