@@ -25,13 +25,26 @@ cd into your .config folder and mkdir called alacritty
 cd ~/.config/ mkdir alacritty
 
 ```
+it should look like this
+
+```
+~/.config/alacritty
+```
 
 then use your favorite text editor to make a file called 
 ``` 
 alacritty.toml
 ```
-
 step three get the configs
-
+```
 [my config](https://github.com/nyctoethos/alacritty-config/blob/main/my-config)
-[default config]()
+[default config](https://github.com/nyctoethos/alacritty-config/blob/main/default%20config)
+```
+
+step four 
+copy the configs over to the alacritty.toml folder
+
+And your done!
+
+This is my first time using alacritty i normally use kitty if you use my configs for alacritty they are pretty blank because i like a extremelly fast terminal i also had some issues with migrating from yml to toml I really like alacritty but i feel like it should be more out of the box instead of breaking on a fresh install of sway its whatever though makes you better at the terminal! 
+thanks for reading!
